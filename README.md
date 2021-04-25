@@ -1,8 +1,8 @@
 # CS305
 SNHU
 
-**Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-**
+**Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?**
+
 -Artemis Financial is a fianancial company. Their idea was to modernize their software by incorperating the most up to date software and security solutions.
 
 
