@@ -21,8 +21,8 @@ SNHU
 -The first approach is to understand which type of industry the company will take part in. For different applications such as finance would be more prone to threats and attacks. The more value the more it would potentially be targeted. Taking these things in to account we can decide the amount of security layers needed.
 
 
-**How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
-**
+**How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?**
+
 -Making sure the code compiles and runs properly. You can run dependency checks before and after code refactoring to ensure we didnt introduce anything into new the mix.
 
 
