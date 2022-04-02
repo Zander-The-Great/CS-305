@@ -1,4 +1,4 @@
-# CS305
+# CS-305
 SNHU
 
 **Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?**
